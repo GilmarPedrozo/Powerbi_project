@@ -1,2 +1,3 @@
 # Powerbi_project
-Desafio power bi para criar dashboard 
+Desafio para criar dashboard 
+Power BI usado como ferramenta
